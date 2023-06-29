@@ -1,0 +1,24 @@
+{
+  "pending_tasks": [
+    {
+      "id": "861af65e-18ef-4c5b-9413-591383eda48a",
+      "task_name": "Mall",
+      "description": "I need to get groceries at the mall this week",
+      "due_date": "2023-07-01",
+      "date_created": "2023-06-29 11:51:41.879332",
+      "tag_number": 1,
+      "completed": false
+    }
+  ],
+  "completed_tasks": [
+    {
+      "id": "bb34e8d2-4ddf-4c26-aba4-c15d1853325a",
+      "task_name": "Farm",
+      "description": "I need to wet them crops and pull out the unwanted weed this weekend.",
+      "due_date": "2023-07-02",
+      "date_created": "2023-06-29 11:52:40.811989",
+      "tag_number": 2,
+      "completed": true
+    }
+  ]
+}
